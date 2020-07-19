@@ -22,7 +22,7 @@ Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course
 
   Handling missing values manually by looking at features having close correlation with them and looking for possible collinearity and making new features from available features that have better correlation with Target prediction.
   
->5. <a href='https://github.com/naureen20/Housing-Prices-Prediction-with-Advanced-Regression-models/blob/master/house%20price%20all%20regression%20models_.ipynb#step5'>Feature Engineering and EDA
+>5. <a href='https://github.com/naureen20/Housing-Prices-Prediction-with-Advanced-Regression-models/blob/master/house%20price%20all%20regression%20models_.ipynb#step5'>Feature Engineering and EDA</a>
   
   Imputing if there are any remaining missing values, looking for outliers, skewness, observing feature importances and analysing correlation between each category of features together 
 
