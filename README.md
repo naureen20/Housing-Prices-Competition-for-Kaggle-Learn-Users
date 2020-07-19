@@ -6,7 +6,7 @@ Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course
 
 ## Contents
 
-> 1. <a href='https://github.com/naureen20/Housing-Prices-Prediction-with-Advanced-Regression-models/house price all regression models_.ipynb#1. Loading and Exploring Data'>Loading and Exploring Data</a>
+> 1. <a href='https://github.com/naureen20/Housing-Prices-Prediction-with-Advanced-Regression-models/blob/master/house%20price%20all%20regression%20models_.ipynb#1. Loading and Exploring Data'>Loading and Exploring Data</a>
 
   Data is read from files and SalesPrice in training dara, ID for houses in test data are located
   
