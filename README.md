@@ -5,7 +5,8 @@ Applying the learnings in the Machine Learning course,Detailed exploratory data 
 Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course/data)
 
 ## Contents
-> 1. <a href='#step1. Loading and Exploring Data'>Loading and Exploring Data</a>
+
+> 1. <a href='#house price all regression models_.ipynb/1. Loading and Exploring Data'>Loading and Exploring Data</a>
 *[Loading and Exploring Data](house price all regression models_.ipynb#step1)
   Data is read from files and SalesPrice in training dara, ID for houses in test data are located
   
@@ -23,3 +24,5 @@ Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course
 
 7. <a href='#step7'>Ensembling and Obtaining result</a>
 8. <a href='#step8'>References</a>
+* [Kaggle](https://www.kaggle.com/itslek/blend-stack-lr-gb-0-10649-house-prices-v57)
+* [Kaggle](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda)
