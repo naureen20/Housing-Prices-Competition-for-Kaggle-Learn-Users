@@ -6,8 +6,8 @@ Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course
 
 ## Contents
 
-> 1. <a href='#house price all regression models_.ipynb/1. Loading and Exploring Data'>Loading and Exploring Data</a>
-*[Loading and Exploring Data](house price all regression models_.ipynb#step1)
+> 1. <a href='https://github.com/naureen20/Housing-Prices-Prediction-with-Advanced-Regression-models/house price all regression models_.ipynb#1. Loading and Exploring Data'>Loading and Exploring Data</a>
+
   Data is read from files and SalesPrice in training dara, ID for houses in test data are located
   
 >2. <a href='#step2'>Cleanup of data and Handling missing values</a>
@@ -24,5 +24,5 @@ Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course
 
 7. <a href='#step7'>Ensembling and Obtaining result</a>
 8. <a href='#step8'>References</a>
-* [Kaggle](https://www.kaggle.com/itslek/blend-stack-lr-gb-0-10649-house-prices-v57)
-* [Kaggle](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda)
+* [Kaggle Blend and stack models](https://www.kaggle.com/itslek/blend-stack-lr-gb-0-10649-house-prices-v57)
+* [Kaggle Detailed EDA](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda)
