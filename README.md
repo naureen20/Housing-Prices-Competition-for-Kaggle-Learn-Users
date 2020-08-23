@@ -33,6 +33,8 @@ Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course
   
   Imputing if there are any remaining missing values, looking for outliers, skewness, observing feature importances and analysing correlation between each category of features together 
 
+### Advanced Regression Models
+
 6. <a href='https://github.com/naureen20/Housing-Prices-Prediction-with-Advanced-Regression-models/blob/master/house%20price%20all%20regression%20models_.ipynb#step6'>Creating Models with Grid Search</a>
 
   Ridge regression, Lasso regression, ElasticNet, XGBoost,SVR, Gradient Boost Regression models have been formed with Grid search for Best Hyper Parameters. Stacking all models and using XGBoost for 2nd level training improved accuracy of predictions. 
