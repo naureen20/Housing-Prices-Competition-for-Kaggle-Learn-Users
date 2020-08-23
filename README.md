@@ -1,4 +1,4 @@
-# 2.	Predicting Housing prices using Advanced Regression Technique  
+# Predicting Housing prices using Advanced Regression Technique  
   ## Objective is to perform a detailed EDA and estimate House prices using Ensemble technique.
   
 Applying the learnings in the Machine Learning course, Detailed **exploratory data analysis** and various **Advanced regression models XG-Boost, Ridge, Lasso, Elastic-net, Gradient Boost, SVR are employed.**
