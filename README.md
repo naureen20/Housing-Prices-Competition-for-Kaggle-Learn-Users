@@ -1,5 +1,9 @@
 # Housing-Prices-Prediction-with-Advanced-Regression-models
-Applying the learnings in the Machine Learning course,Detailed exploratory data analysis and various regressions models including stacking and ensemble learning for predicting Sales Price of a given house in real estate market using various statistical analysis tools. Obtained the closest price that a client might sell their house utilizing machine learning.
+  ## Objective is to perform a detailed EDA and estimate House prices using Ensemble technique.
+  
+Applying the learnings in the Machine Learning course, Detailed **exploratory data analysis** and various **Advanced regression models XG-Boost, Ridge, Lasso, Elastic-net, Gradient Boost, SVR are employed.**
+  STEPS 
+Predicting Sales Price of a given house in real estate market using various statistical analysis tools. Obtained the closest price that a client might sell their house utilizing machine learning.
 *Presented in the form of iPython Notebooks.*
 
 Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course/data)
