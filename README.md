@@ -7,7 +7,7 @@ Predicting Sales Price of a given house in real estate market using various stat
 *Presented in the form of iPython Notebooks.*
 
 Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course/data)
-Running code file can be found [Kaggle](https://www.kaggle.com/naureenmohammad/house-price-all-regression-models-final)
+Running code file can be found [Here](https://www.kaggle.com/naureenmohammad/house-price-all-regression-models-final)
 
 ## Contents
 
