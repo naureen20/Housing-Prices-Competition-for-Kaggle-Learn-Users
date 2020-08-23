@@ -2,7 +2,10 @@
   ## Objective is to perform a detailed EDA and estimate House prices using Ensemble technique.
   
 Applying the learnings in the Machine Learning course, Detailed **exploratory data analysis** and various **Advanced regression models XG-Boost, Ridge, Lasso, Elastic-net, Gradient Boost, SVR are employed.**
-  STEPS 
+
+  STEPS 2 to 5 are for exploratory data analysis.
+  
+  
 Predicting Sales Price of a given house in real estate market using various statistical analysis tools. Obtained the closest price that a client might sell their house utilizing machine learning.
 *Presented in the form of iPython Notebooks.*
 
