@@ -13,7 +13,10 @@ Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course
 > 1. <a href='https://github.com/naureen20/Housing-Prices-Prediction-with-Advanced-Regression-models/blob/master/house%20price%20all%20regression%20models_.ipynb#1. Loading and Exploring Data'>Loading and Exploring Data</a>
 
   Data is read from files and SalesPrice in training dara, ID for houses in test data are located
-  
+ 
+ 
+ ###Exploratory Data Analysis
+ 
 >2. <a href='https://github.com/naureen20/Housing-Prices-Prediction-with-Advanced-Regression-models/blob/master/house%20price%20all%20regression%20models_.ipynb#step2'>Cleanup of data and Handling missing values</a>
 
   Many categorical features hold ratings which can be converted into numbers and missing values can be taken as 0. 
@@ -33,6 +36,9 @@ Data is extracted from [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course
 6. <a href='https://github.com/naureen20/Housing-Prices-Prediction-with-Advanced-Regression-models/blob/master/house%20price%20all%20regression%20models_.ipynb#step6'>Creating Models with Grid Search</a>
 
   Ridge regression, Lasso regression, ElasticNet, XGBoost,SVR, Gradient Boost Regression models have been formed with Grid search for Best Hyper Parameters. Stacking all models and using XGBoost for 2nd level training improved accuracy of predictions. 
+  
+  
+### Ensemble   
 
 7. <a href='https://github.com/naureen20/Housing-Prices-Prediction-with-Advanced-Regression-models/blob/master/house%20price%20all%20regression%20models_.ipynb#step7'>Ensembling and Obtaining result</a>
 
